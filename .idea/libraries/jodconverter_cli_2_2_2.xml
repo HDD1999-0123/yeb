@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jodconverter-cli-2.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/yeb-server/lib/jodconverter-cli-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/yeb-server/lib/jodconverter-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
